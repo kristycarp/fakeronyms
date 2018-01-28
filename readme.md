@@ -6,3 +6,6 @@ it's a chrome extension (save in a folder then upload as an unpacked extension) 
 
 ## how did you make it?
 javascript, chrome extension tutorials, and much less motivation than a hackathon usually entails
+
+## so what works and what doesn't?
+running a chrome extension from a folder with all these files should work -- the only files that are actually called are contentscript.js, icon.png, and manifest.json. if you want to deal with or test broken code, make your edits to contentscript-allcaps.js or contentscript-onbutton.js and modify manifest.json to call the appropriate javascript file.
