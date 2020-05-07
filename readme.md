@@ -1,5 +1,6 @@
 # fakeronyms
 idk man this is a janky project put together in a few hours
+(by kristy c and amy w @ hack@brown 2018!)
 
 ## what does it do?
 it's a chrome extension (save in a folder then upload as an unpacked extension) that makes subtle changes to acronyms and things that look like acronyms to screw with you but like, just a little
